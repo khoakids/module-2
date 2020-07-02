@@ -1,0 +1,13 @@
+D:\codegym\module-2\thiet-ke-menu-cho-ung-dung\bin\Debug\netcoreapp3.1\thiet-ke-menu-cho-ung-dung.exe
+D:\codegym\module-2\thiet-ke-menu-cho-ung-dung\bin\Debug\netcoreapp3.1\thiet-ke-menu-cho-ung-dung.deps.json
+D:\codegym\module-2\thiet-ke-menu-cho-ung-dung\bin\Debug\netcoreapp3.1\thiet-ke-menu-cho-ung-dung.runtimeconfig.json
+D:\codegym\module-2\thiet-ke-menu-cho-ung-dung\bin\Debug\netcoreapp3.1\thiet-ke-menu-cho-ung-dung.runtimeconfig.dev.json
+D:\codegym\module-2\thiet-ke-menu-cho-ung-dung\bin\Debug\netcoreapp3.1\thiet-ke-menu-cho-ung-dung.dll
+D:\codegym\module-2\thiet-ke-menu-cho-ung-dung\bin\Debug\netcoreapp3.1\thiet-ke-menu-cho-ung-dung.pdb
+D:\codegym\module-2\thiet-ke-menu-cho-ung-dung\obj\Debug\netcoreapp3.1\thiet-ke-menu-cho-ung-dung.csprojAssemblyReference.cache
+D:\codegym\module-2\thiet-ke-menu-cho-ung-dung\obj\Debug\netcoreapp3.1\thiet-ke-menu-cho-ung-dung.AssemblyInfoInputs.cache
+D:\codegym\module-2\thiet-ke-menu-cho-ung-dung\obj\Debug\netcoreapp3.1\thiet-ke-menu-cho-ung-dung.AssemblyInfo.cs
+D:\codegym\module-2\thiet-ke-menu-cho-ung-dung\obj\Debug\netcoreapp3.1\thiet-ke-menu-cho-ung-dung.csproj.CoreCompileInputs.cache
+D:\codegym\module-2\thiet-ke-menu-cho-ung-dung\obj\Debug\netcoreapp3.1\thiet-ke-menu-cho-ung-dung.dll
+D:\codegym\module-2\thiet-ke-menu-cho-ung-dung\obj\Debug\netcoreapp3.1\thiet-ke-menu-cho-ung-dung.pdb
+D:\codegym\module-2\thiet-ke-menu-cho-ung-dung\obj\Debug\netcoreapp3.1\thiet-ke-menu-cho-ung-dung.genruntimeconfig.cache

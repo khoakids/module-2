@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "thiet-ke-menu-cho-ung-dung/1.0.0": {
+        "runtime": {
+          "thiet-ke-menu-cho-ung-dung.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "thiet-ke-menu-cho-ung-dung/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
