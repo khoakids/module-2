@@ -1,0 +1,13 @@
+D:\codegym\module-2\tinh-tien-lai\bin\Debug\netcoreapp3.1\tinh-tien-lai.exe
+D:\codegym\module-2\tinh-tien-lai\bin\Debug\netcoreapp3.1\tinh-tien-lai.deps.json
+D:\codegym\module-2\tinh-tien-lai\bin\Debug\netcoreapp3.1\tinh-tien-lai.runtimeconfig.json
+D:\codegym\module-2\tinh-tien-lai\bin\Debug\netcoreapp3.1\tinh-tien-lai.runtimeconfig.dev.json
+D:\codegym\module-2\tinh-tien-lai\bin\Debug\netcoreapp3.1\tinh-tien-lai.dll
+D:\codegym\module-2\tinh-tien-lai\bin\Debug\netcoreapp3.1\tinh-tien-lai.pdb
+D:\codegym\module-2\tinh-tien-lai\obj\Debug\netcoreapp3.1\tinh-tien-lai.csprojAssemblyReference.cache
+D:\codegym\module-2\tinh-tien-lai\obj\Debug\netcoreapp3.1\tinh-tien-lai.AssemblyInfoInputs.cache
+D:\codegym\module-2\tinh-tien-lai\obj\Debug\netcoreapp3.1\tinh-tien-lai.AssemblyInfo.cs
+D:\codegym\module-2\tinh-tien-lai\obj\Debug\netcoreapp3.1\tinh-tien-lai.csproj.CoreCompileInputs.cache
+D:\codegym\module-2\tinh-tien-lai\obj\Debug\netcoreapp3.1\tinh-tien-lai.dll
+D:\codegym\module-2\tinh-tien-lai\obj\Debug\netcoreapp3.1\tinh-tien-lai.pdb
+D:\codegym\module-2\tinh-tien-lai\obj\Debug\netcoreapp3.1\tinh-tien-lai.genruntimeconfig.cache
