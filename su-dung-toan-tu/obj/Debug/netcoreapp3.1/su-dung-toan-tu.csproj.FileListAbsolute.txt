@@ -1,0 +1,13 @@
+D:\codegym\module-2\su-dung-toan-tu\bin\Debug\netcoreapp3.1\su-dung-toan-tu.exe
+D:\codegym\module-2\su-dung-toan-tu\bin\Debug\netcoreapp3.1\su-dung-toan-tu.deps.json
+D:\codegym\module-2\su-dung-toan-tu\bin\Debug\netcoreapp3.1\su-dung-toan-tu.runtimeconfig.json
+D:\codegym\module-2\su-dung-toan-tu\bin\Debug\netcoreapp3.1\su-dung-toan-tu.runtimeconfig.dev.json
+D:\codegym\module-2\su-dung-toan-tu\bin\Debug\netcoreapp3.1\su-dung-toan-tu.dll
+D:\codegym\module-2\su-dung-toan-tu\bin\Debug\netcoreapp3.1\su-dung-toan-tu.pdb
+D:\codegym\module-2\su-dung-toan-tu\obj\Debug\netcoreapp3.1\su-dung-toan-tu.csprojAssemblyReference.cache
+D:\codegym\module-2\su-dung-toan-tu\obj\Debug\netcoreapp3.1\su-dung-toan-tu.AssemblyInfoInputs.cache
+D:\codegym\module-2\su-dung-toan-tu\obj\Debug\netcoreapp3.1\su-dung-toan-tu.AssemblyInfo.cs
+D:\codegym\module-2\su-dung-toan-tu\obj\Debug\netcoreapp3.1\su-dung-toan-tu.csproj.CoreCompileInputs.cache
+D:\codegym\module-2\su-dung-toan-tu\obj\Debug\netcoreapp3.1\su-dung-toan-tu.dll
+D:\codegym\module-2\su-dung-toan-tu\obj\Debug\netcoreapp3.1\su-dung-toan-tu.pdb
+D:\codegym\module-2\su-dung-toan-tu\obj\Debug\netcoreapp3.1\su-dung-toan-tu.genruntimeconfig.cache
