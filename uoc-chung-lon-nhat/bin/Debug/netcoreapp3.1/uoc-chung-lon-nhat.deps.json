@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "uoc-chung-lon-nhat/1.0.0": {
+        "runtime": {
+          "uoc-chung-lon-nhat.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "uoc-chung-lon-nhat/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

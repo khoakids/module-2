@@ -1,0 +1,13 @@
+D:\codegym\module-2\uoc-chung-lon-nhat\bin\Debug\netcoreapp3.1\uoc-chung-lon-nhat.exe
+D:\codegym\module-2\uoc-chung-lon-nhat\bin\Debug\netcoreapp3.1\uoc-chung-lon-nhat.deps.json
+D:\codegym\module-2\uoc-chung-lon-nhat\bin\Debug\netcoreapp3.1\uoc-chung-lon-nhat.runtimeconfig.json
+D:\codegym\module-2\uoc-chung-lon-nhat\bin\Debug\netcoreapp3.1\uoc-chung-lon-nhat.runtimeconfig.dev.json
+D:\codegym\module-2\uoc-chung-lon-nhat\bin\Debug\netcoreapp3.1\uoc-chung-lon-nhat.dll
+D:\codegym\module-2\uoc-chung-lon-nhat\bin\Debug\netcoreapp3.1\uoc-chung-lon-nhat.pdb
+D:\codegym\module-2\uoc-chung-lon-nhat\obj\Debug\netcoreapp3.1\uoc-chung-lon-nhat.csprojAssemblyReference.cache
+D:\codegym\module-2\uoc-chung-lon-nhat\obj\Debug\netcoreapp3.1\uoc-chung-lon-nhat.AssemblyInfoInputs.cache
+D:\codegym\module-2\uoc-chung-lon-nhat\obj\Debug\netcoreapp3.1\uoc-chung-lon-nhat.AssemblyInfo.cs
+D:\codegym\module-2\uoc-chung-lon-nhat\obj\Debug\netcoreapp3.1\uoc-chung-lon-nhat.csproj.CoreCompileInputs.cache
+D:\codegym\module-2\uoc-chung-lon-nhat\obj\Debug\netcoreapp3.1\uoc-chung-lon-nhat.dll
+D:\codegym\module-2\uoc-chung-lon-nhat\obj\Debug\netcoreapp3.1\uoc-chung-lon-nhat.pdb
+D:\codegym\module-2\uoc-chung-lon-nhat\obj\Debug\netcoreapp3.1\uoc-chung-lon-nhat.genruntimeconfig.cache
