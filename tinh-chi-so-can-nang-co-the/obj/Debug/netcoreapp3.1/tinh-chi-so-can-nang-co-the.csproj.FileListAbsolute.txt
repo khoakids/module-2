@@ -1,0 +1,13 @@
+D:\codegym\module-2\tinh-chi-so-can-nang-co-the\bin\Debug\netcoreapp3.1\tinh-chi-so-can-nang-co-the.exe
+D:\codegym\module-2\tinh-chi-so-can-nang-co-the\bin\Debug\netcoreapp3.1\tinh-chi-so-can-nang-co-the.deps.json
+D:\codegym\module-2\tinh-chi-so-can-nang-co-the\bin\Debug\netcoreapp3.1\tinh-chi-so-can-nang-co-the.runtimeconfig.json
+D:\codegym\module-2\tinh-chi-so-can-nang-co-the\bin\Debug\netcoreapp3.1\tinh-chi-so-can-nang-co-the.runtimeconfig.dev.json
+D:\codegym\module-2\tinh-chi-so-can-nang-co-the\bin\Debug\netcoreapp3.1\tinh-chi-so-can-nang-co-the.dll
+D:\codegym\module-2\tinh-chi-so-can-nang-co-the\bin\Debug\netcoreapp3.1\tinh-chi-so-can-nang-co-the.pdb
+D:\codegym\module-2\tinh-chi-so-can-nang-co-the\obj\Debug\netcoreapp3.1\tinh-chi-so-can-nang-co-the.csprojAssemblyReference.cache
+D:\codegym\module-2\tinh-chi-so-can-nang-co-the\obj\Debug\netcoreapp3.1\tinh-chi-so-can-nang-co-the.AssemblyInfoInputs.cache
+D:\codegym\module-2\tinh-chi-so-can-nang-co-the\obj\Debug\netcoreapp3.1\tinh-chi-so-can-nang-co-the.AssemblyInfo.cs
+D:\codegym\module-2\tinh-chi-so-can-nang-co-the\obj\Debug\netcoreapp3.1\tinh-chi-so-can-nang-co-the.csproj.CoreCompileInputs.cache
+D:\codegym\module-2\tinh-chi-so-can-nang-co-the\obj\Debug\netcoreapp3.1\tinh-chi-so-can-nang-co-the.dll
+D:\codegym\module-2\tinh-chi-so-can-nang-co-the\obj\Debug\netcoreapp3.1\tinh-chi-so-can-nang-co-the.pdb
+D:\codegym\module-2\tinh-chi-so-can-nang-co-the\obj\Debug\netcoreapp3.1\tinh-chi-so-can-nang-co-the.genruntimeconfig.cache
