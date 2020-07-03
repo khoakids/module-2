@@ -1,0 +1,13 @@
+D:\codegym\module-2\kiem-tra-nam-nhuan\bin\Debug\netcoreapp3.1\kiem-tra-nam-nhuan.exe
+D:\codegym\module-2\kiem-tra-nam-nhuan\bin\Debug\netcoreapp3.1\kiem-tra-nam-nhuan.deps.json
+D:\codegym\module-2\kiem-tra-nam-nhuan\bin\Debug\netcoreapp3.1\kiem-tra-nam-nhuan.runtimeconfig.json
+D:\codegym\module-2\kiem-tra-nam-nhuan\bin\Debug\netcoreapp3.1\kiem-tra-nam-nhuan.runtimeconfig.dev.json
+D:\codegym\module-2\kiem-tra-nam-nhuan\bin\Debug\netcoreapp3.1\kiem-tra-nam-nhuan.dll
+D:\codegym\module-2\kiem-tra-nam-nhuan\bin\Debug\netcoreapp3.1\kiem-tra-nam-nhuan.pdb
+D:\codegym\module-2\kiem-tra-nam-nhuan\obj\Debug\netcoreapp3.1\kiem-tra-nam-nhuan.csprojAssemblyReference.cache
+D:\codegym\module-2\kiem-tra-nam-nhuan\obj\Debug\netcoreapp3.1\kiem-tra-nam-nhuan.AssemblyInfoInputs.cache
+D:\codegym\module-2\kiem-tra-nam-nhuan\obj\Debug\netcoreapp3.1\kiem-tra-nam-nhuan.AssemblyInfo.cs
+D:\codegym\module-2\kiem-tra-nam-nhuan\obj\Debug\netcoreapp3.1\kiem-tra-nam-nhuan.csproj.CoreCompileInputs.cache
+D:\codegym\module-2\kiem-tra-nam-nhuan\obj\Debug\netcoreapp3.1\kiem-tra-nam-nhuan.dll
+D:\codegym\module-2\kiem-tra-nam-nhuan\obj\Debug\netcoreapp3.1\kiem-tra-nam-nhuan.pdb
+D:\codegym\module-2\kiem-tra-nam-nhuan\obj\Debug\netcoreapp3.1\kiem-tra-nam-nhuan.genruntimeconfig.cache
