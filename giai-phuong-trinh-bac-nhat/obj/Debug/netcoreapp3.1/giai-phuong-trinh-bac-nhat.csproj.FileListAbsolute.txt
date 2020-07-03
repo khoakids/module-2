@@ -1,0 +1,13 @@
+D:\codegym\module-2\giai-phuong-trinh-bac-nhat\bin\Debug\netcoreapp3.1\giai-phuong-trinh-bac-nhat.exe
+D:\codegym\module-2\giai-phuong-trinh-bac-nhat\bin\Debug\netcoreapp3.1\giai-phuong-trinh-bac-nhat.deps.json
+D:\codegym\module-2\giai-phuong-trinh-bac-nhat\bin\Debug\netcoreapp3.1\giai-phuong-trinh-bac-nhat.runtimeconfig.json
+D:\codegym\module-2\giai-phuong-trinh-bac-nhat\bin\Debug\netcoreapp3.1\giai-phuong-trinh-bac-nhat.runtimeconfig.dev.json
+D:\codegym\module-2\giai-phuong-trinh-bac-nhat\bin\Debug\netcoreapp3.1\giai-phuong-trinh-bac-nhat.dll
+D:\codegym\module-2\giai-phuong-trinh-bac-nhat\bin\Debug\netcoreapp3.1\giai-phuong-trinh-bac-nhat.pdb
+D:\codegym\module-2\giai-phuong-trinh-bac-nhat\obj\Debug\netcoreapp3.1\giai-phuong-trinh-bac-nhat.csprojAssemblyReference.cache
+D:\codegym\module-2\giai-phuong-trinh-bac-nhat\obj\Debug\netcoreapp3.1\giai-phuong-trinh-bac-nhat.AssemblyInfoInputs.cache
+D:\codegym\module-2\giai-phuong-trinh-bac-nhat\obj\Debug\netcoreapp3.1\giai-phuong-trinh-bac-nhat.AssemblyInfo.cs
+D:\codegym\module-2\giai-phuong-trinh-bac-nhat\obj\Debug\netcoreapp3.1\giai-phuong-trinh-bac-nhat.csproj.CoreCompileInputs.cache
+D:\codegym\module-2\giai-phuong-trinh-bac-nhat\obj\Debug\netcoreapp3.1\giai-phuong-trinh-bac-nhat.dll
+D:\codegym\module-2\giai-phuong-trinh-bac-nhat\obj\Debug\netcoreapp3.1\giai-phuong-trinh-bac-nhat.pdb
+D:\codegym\module-2\giai-phuong-trinh-bac-nhat\obj\Debug\netcoreapp3.1\giai-phuong-trinh-bac-nhat.genruntimeconfig.cache
