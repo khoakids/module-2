@@ -1,0 +1,13 @@
+D:\codegym\module-2\hien-thi-loi-chao\bin\Debug\netcoreapp3.1\hien-thi-loi-chao.exe
+D:\codegym\module-2\hien-thi-loi-chao\bin\Debug\netcoreapp3.1\hien-thi-loi-chao.deps.json
+D:\codegym\module-2\hien-thi-loi-chao\bin\Debug\netcoreapp3.1\hien-thi-loi-chao.runtimeconfig.json
+D:\codegym\module-2\hien-thi-loi-chao\bin\Debug\netcoreapp3.1\hien-thi-loi-chao.runtimeconfig.dev.json
+D:\codegym\module-2\hien-thi-loi-chao\bin\Debug\netcoreapp3.1\hien-thi-loi-chao.dll
+D:\codegym\module-2\hien-thi-loi-chao\bin\Debug\netcoreapp3.1\hien-thi-loi-chao.pdb
+D:\codegym\module-2\hien-thi-loi-chao\obj\Debug\netcoreapp3.1\hien-thi-loi-chao.csprojAssemblyReference.cache
+D:\codegym\module-2\hien-thi-loi-chao\obj\Debug\netcoreapp3.1\hien-thi-loi-chao.AssemblyInfoInputs.cache
+D:\codegym\module-2\hien-thi-loi-chao\obj\Debug\netcoreapp3.1\hien-thi-loi-chao.AssemblyInfo.cs
+D:\codegym\module-2\hien-thi-loi-chao\obj\Debug\netcoreapp3.1\hien-thi-loi-chao.csproj.CoreCompileInputs.cache
+D:\codegym\module-2\hien-thi-loi-chao\obj\Debug\netcoreapp3.1\hien-thi-loi-chao.dll
+D:\codegym\module-2\hien-thi-loi-chao\obj\Debug\netcoreapp3.1\hien-thi-loi-chao.pdb
+D:\codegym\module-2\hien-thi-loi-chao\obj\Debug\netcoreapp3.1\hien-thi-loi-chao.genruntimeconfig.cache
