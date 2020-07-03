@@ -1,0 +1,13 @@
+D:\codegym\module-2\bai1\20-so-nguyen-to-dau-tien\bin\Debug\netcoreapp3.1\20-so-nguyen-to-dau-tien.exe
+D:\codegym\module-2\bai1\20-so-nguyen-to-dau-tien\bin\Debug\netcoreapp3.1\20-so-nguyen-to-dau-tien.deps.json
+D:\codegym\module-2\bai1\20-so-nguyen-to-dau-tien\bin\Debug\netcoreapp3.1\20-so-nguyen-to-dau-tien.runtimeconfig.json
+D:\codegym\module-2\bai1\20-so-nguyen-to-dau-tien\bin\Debug\netcoreapp3.1\20-so-nguyen-to-dau-tien.runtimeconfig.dev.json
+D:\codegym\module-2\bai1\20-so-nguyen-to-dau-tien\bin\Debug\netcoreapp3.1\20-so-nguyen-to-dau-tien.dll
+D:\codegym\module-2\bai1\20-so-nguyen-to-dau-tien\bin\Debug\netcoreapp3.1\20-so-nguyen-to-dau-tien.pdb
+D:\codegym\module-2\bai1\20-so-nguyen-to-dau-tien\obj\Debug\netcoreapp3.1\20-so-nguyen-to-dau-tien.csprojAssemblyReference.cache
+D:\codegym\module-2\bai1\20-so-nguyen-to-dau-tien\obj\Debug\netcoreapp3.1\20-so-nguyen-to-dau-tien.AssemblyInfoInputs.cache
+D:\codegym\module-2\bai1\20-so-nguyen-to-dau-tien\obj\Debug\netcoreapp3.1\20-so-nguyen-to-dau-tien.AssemblyInfo.cs
+D:\codegym\module-2\bai1\20-so-nguyen-to-dau-tien\obj\Debug\netcoreapp3.1\20-so-nguyen-to-dau-tien.csproj.CoreCompileInputs.cache
+D:\codegym\module-2\bai1\20-so-nguyen-to-dau-tien\obj\Debug\netcoreapp3.1\20-so-nguyen-to-dau-tien.dll
+D:\codegym\module-2\bai1\20-so-nguyen-to-dau-tien\obj\Debug\netcoreapp3.1\20-so-nguyen-to-dau-tien.pdb
+D:\codegym\module-2\bai1\20-so-nguyen-to-dau-tien\obj\Debug\netcoreapp3.1\20-so-nguyen-to-dau-tien.genruntimeconfig.cache
