@@ -1,0 +1,13 @@
+D:\codegym\module-2\ung-dung-chuyen-doi-tien-te\bin\Debug\netcoreapp3.1\ung-dung-chuyen-doi-tien-te.exe
+D:\codegym\module-2\ung-dung-chuyen-doi-tien-te\bin\Debug\netcoreapp3.1\ung-dung-chuyen-doi-tien-te.deps.json
+D:\codegym\module-2\ung-dung-chuyen-doi-tien-te\bin\Debug\netcoreapp3.1\ung-dung-chuyen-doi-tien-te.runtimeconfig.json
+D:\codegym\module-2\ung-dung-chuyen-doi-tien-te\bin\Debug\netcoreapp3.1\ung-dung-chuyen-doi-tien-te.runtimeconfig.dev.json
+D:\codegym\module-2\ung-dung-chuyen-doi-tien-te\bin\Debug\netcoreapp3.1\ung-dung-chuyen-doi-tien-te.dll
+D:\codegym\module-2\ung-dung-chuyen-doi-tien-te\bin\Debug\netcoreapp3.1\ung-dung-chuyen-doi-tien-te.pdb
+D:\codegym\module-2\ung-dung-chuyen-doi-tien-te\obj\Debug\netcoreapp3.1\ung-dung-chuyen-doi-tien-te.csprojAssemblyReference.cache
+D:\codegym\module-2\ung-dung-chuyen-doi-tien-te\obj\Debug\netcoreapp3.1\ung-dung-chuyen-doi-tien-te.AssemblyInfoInputs.cache
+D:\codegym\module-2\ung-dung-chuyen-doi-tien-te\obj\Debug\netcoreapp3.1\ung-dung-chuyen-doi-tien-te.AssemblyInfo.cs
+D:\codegym\module-2\ung-dung-chuyen-doi-tien-te\obj\Debug\netcoreapp3.1\ung-dung-chuyen-doi-tien-te.csproj.CoreCompileInputs.cache
+D:\codegym\module-2\ung-dung-chuyen-doi-tien-te\obj\Debug\netcoreapp3.1\ung-dung-chuyen-doi-tien-te.dll
+D:\codegym\module-2\ung-dung-chuyen-doi-tien-te\obj\Debug\netcoreapp3.1\ung-dung-chuyen-doi-tien-te.pdb
+D:\codegym\module-2\ung-dung-chuyen-doi-tien-te\obj\Debug\netcoreapp3.1\ung-dung-chuyen-doi-tien-te.genruntimeconfig.cache
