@@ -1,0 +1,13 @@
+D:\codegym\module-2\khai-bao-va-su-dung-bien\obj\Debug\netcoreapp3.1\khai-bao-va-su-dung-bien.csprojAssemblyReference.cache
+D:\codegym\module-2\khai-bao-va-su-dung-bien\obj\Debug\netcoreapp3.1\khai-bao-va-su-dung-bien.AssemblyInfoInputs.cache
+D:\codegym\module-2\khai-bao-va-su-dung-bien\obj\Debug\netcoreapp3.1\khai-bao-va-su-dung-bien.AssemblyInfo.cs
+D:\codegym\module-2\khai-bao-va-su-dung-bien\obj\Debug\netcoreapp3.1\khai-bao-va-su-dung-bien.csproj.CoreCompileInputs.cache
+D:\codegym\module-2\khai-bao-va-su-dung-bien\bin\Debug\netcoreapp3.1\khai-bao-va-su-dung-bien.exe
+D:\codegym\module-2\khai-bao-va-su-dung-bien\bin\Debug\netcoreapp3.1\khai-bao-va-su-dung-bien.deps.json
+D:\codegym\module-2\khai-bao-va-su-dung-bien\bin\Debug\netcoreapp3.1\khai-bao-va-su-dung-bien.runtimeconfig.json
+D:\codegym\module-2\khai-bao-va-su-dung-bien\bin\Debug\netcoreapp3.1\khai-bao-va-su-dung-bien.runtimeconfig.dev.json
+D:\codegym\module-2\khai-bao-va-su-dung-bien\bin\Debug\netcoreapp3.1\khai-bao-va-su-dung-bien.dll
+D:\codegym\module-2\khai-bao-va-su-dung-bien\bin\Debug\netcoreapp3.1\khai-bao-va-su-dung-bien.pdb
+D:\codegym\module-2\khai-bao-va-su-dung-bien\obj\Debug\netcoreapp3.1\khai-bao-va-su-dung-bien.dll
+D:\codegym\module-2\khai-bao-va-su-dung-bien\obj\Debug\netcoreapp3.1\khai-bao-va-su-dung-bien.pdb
+D:\codegym\module-2\khai-bao-va-su-dung-bien\obj\Debug\netcoreapp3.1\khai-bao-va-su-dung-bien.genruntimeconfig.cache
